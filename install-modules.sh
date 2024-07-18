@@ -1,0 +1,1 @@
+pip3 install django~=4.2.1 whitenoise~=6.5.0 gunicorn~=20.1
